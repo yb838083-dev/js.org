@@ -1914,6 +1914,7 @@ var cnames_active = {
   "mahmoud": "mahmoud-sagharjoughi.github.io/mahmoud",
   "maid": "maidjs.github.io",
   "mailbox": "vsdparibas.github.io/mailboxjs-doc",
+  "mailgic": "mailgic.netlify.app"
   "majestic": "moityjs.github.io/majestic",
   "maker": "microsoft.github.io/maker.js",
   "makes": "makesjs.github.io",
